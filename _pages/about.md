@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Reham El-Kholy, PhD"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
