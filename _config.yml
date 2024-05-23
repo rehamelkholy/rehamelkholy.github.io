@@ -21,7 +21,7 @@ repository               : "rehamelkholy/rehamelkholy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.PNG"
+  avatar           : "https://postimg.cc/YvNLy55k"
   name             : "Reham El-Kholy, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer of Astronomy"
