@@ -11,35 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astroparticle Physics, Cairo University, 2021
+* M.Sc. in Relativistic Cosmology, Cairo University, 2016
+* B.Sc. in Physics & Astronomy, Cairo University, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2021 – Present: Lecturer in Astronomy
+  * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2016 – September 2021: Assistant Lecturer in Astronomy
+  * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2012 – September 2016: Teaching Assistant in Astronomy
+  * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
+
+* October 2022 – July 2023: Session Lead
+  * Udacity (Digital Egypt Cubs Initiative)
+  * Duties:
+    * Conducted weekly virtual sessions on Programming Fundamentals for DECI students aged 12 to 17.
+    * Provided technical support to students, ensuring successful graduation.
+    * Tracked and reported student progress throughout the cohort.
+
+* September 2020 – May 2022: Arabic Mathematics Reviewer
+  * Nagwa Ltd.
+  * Duties:
+    * Reviewed translated K-12 mathematics curricula for scientific accuracy.
+    * Maintained mathematics glossaries and provided feedback to translators.
+
+* February 2019 – November 2019: Student Mentor
+  * Udacity
+  * Duties:
+    * Provided technical support to students on their projects.
+    * Assisted students in creating personalized weekly learning plans.
+    * Motivated students to remain engaged and active in their studies.
+
+* May 2013 – August 2020: English to Arabic Translator
+  * Springer Nature
+  * Duties:
+    * Translated scientific articles for Arabic Nature Edition and Scientific American.
+    * Conducted research for new terms and updated glossaries.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C++
+* ROOT
+* Linux
+* Mathematica
+* LaTeX
 
 Publications
 ======
@@ -61,4 +81,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Feb 2022 to Present: Foreign Students Coordinator
+  * Department of Astronomy, Space Science, and Meteorology, Cairo University
+* Currently supervising 2 M.Sc. students
