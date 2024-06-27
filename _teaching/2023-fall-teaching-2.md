@@ -1,13 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Radio Astronomy"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-teaching-2
+venue: "Cairo University, Faculty of Science, Astronomy Department"
+date: 2023-01-01
+location: "Cairo, Egypt"
 ---
-
+<!-- 
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
@@ -17,4 +17,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->
