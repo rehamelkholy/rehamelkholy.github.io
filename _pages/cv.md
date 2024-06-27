@@ -19,12 +19,20 @@ Work experience
 ======
 * October 2021 – Present: Lecturer in Astronomy
   * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
+  * Duties:
+    * Teaching astrophysics majors; being solely responsible for course content
+    * Developed lab exercises in celestial mechanics, general relativity, and astrophysics based on Mathematica and Python
+    * Supervising TAs; writing exams; supervising group projects
 
 * October 2016 – September 2021: Assistant Lecturer in Astronomy
   * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
+  * Duties:
+    * Managed and conducted practical and lab sessions; updated course content
+    * Graded exams; guided students; led teaching assistants in lab
 
 * September 2012 – September 2016: Teaching Assistant in Astronomy
   * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
+  * Duties: Conducted practical and lab sessions; prepared model answers; graded homework; prepared presentations
 
 * October 2022 – July 2023: Session Lead
   * Udacity (Digital Egypt Cubs Initiative)
