@@ -89,6 +89,7 @@ Teaching
   
 Service and leadership
 ======
-* Feb 2022 to Present: Foreign Students Coordinator
+* Sep 2024 to Present: Quality Assurance Unit Coordinator
   * Department of Astronomy, Space Science, and Meteorology, Cairo University
-* Currently supervising 2 M.Sc. students
+* Feb 2022 to Sep 2024: Foreign Students Coordinator
+  * Department of Astronomy, Space Science, and Meteorology, Cairo University
