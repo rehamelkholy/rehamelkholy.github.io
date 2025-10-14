@@ -19,46 +19,27 @@ Work experience
 ======
 * October 2021 – Present: Lecturer in Astronomy
   * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
-  * Duties:
-    * Teaching astrophysics majors; being solely responsible for course content
-    * Developed lab exercises in celestial mechanics, general relativity, and astrophysics based on Mathematica and Python
-    * Supervising TAs; writing exams; supervising group projects
+
+* March 2025 - June 2025: Adjunct Lecturer
+  * ESLSCA University, Egypt
 
 * October 2016 – September 2021: Assistant Lecturer in Astronomy
   * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
-  * Duties:
-    * Managed and conducted practical and lab sessions; updated course content
-    * Graded exams; guided students; led teaching assistants in lab
-
+  
 * September 2012 – September 2016: Teaching Assistant in Astronomy
   * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
-  * Duties: Conducted practical and lab sessions; prepared model answers; graded homework; prepared presentations
-
-* October 2022 – July 2023: Session Lead
+  
+* October 2022 – Present: Session Lead
   * Udacity (Digital Egypt Cubs Initiative)
-  * Duties:
-    * Conducted weekly virtual sessions on Programming Fundamentals for DECI students aged 12 to 17.
-    * Provided technical support to students, ensuring successful graduation.
-    * Tracked and reported student progress throughout the cohort.
 
 * September 2020 – May 2022: Arabic Mathematics Reviewer
   * Nagwa Ltd.
-  * Duties:
-    * Reviewed translated K-12 mathematics curricula for scientific accuracy.
-    * Maintained mathematics glossaries and provided feedback to translators.
 
 * February 2019 – November 2019: Student Mentor
   * Udacity
-  * Duties:
-    * Provided technical support to students on their projects.
-    * Assisted students in creating personalized weekly learning plans.
-    * Motivated students to remain engaged and active in their studies.
 
 * May 2013 – August 2020: English to Arabic Translator
   * Springer Nature
-  * Duties:
-    * Translated scientific articles for Arabic Nature Edition and Scientific American.
-    * Conducted research for new terms and updated glossaries.
   
 Skills
 ======
@@ -89,7 +70,14 @@ Teaching
   
 Service and leadership
 ======
-* Sep 2024 to Present: Quality Assurance Unit Coordinator
+* Sep 2023 to Present: Examination Control Unit Member
   * Department of Astronomy, Space Science, and Meteorology, Cairo University
+
+* Sep 2024 to Sep 2025: Quality Assurance Unit Coordinator
+  * Department of Astronomy, Space Science, and Meteorology, Cairo University
+
 * Feb 2022 to Sep 2024: Foreign Students Coordinator
   * Department of Astronomy, Space Science, and Meteorology, Cairo University
+
+* Mar 2015 to Jan 2016: Strategic Planning Executive Team Member
+  * Quality Assurance Unit, Faculty of Science, Cairo University
