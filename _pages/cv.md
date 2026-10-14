@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* October 2021 – Present: Lecturer in Astronomy
+* October 2021 – Present: Assistant Professor in Astronomy
   * Department of Astronomy, Space Science, and Meteorology, Cairo University, Egypt
 
 * March 2025 - June 2025: Adjunct Lecturer
